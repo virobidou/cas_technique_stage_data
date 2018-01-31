@@ -15,4 +15,6 @@ Pour démarrer ton travail, **depuis ton espace** tu peux cliquer sur le lien bi
 Toutes les consignes du cas sont disponibles dans le notebook Jupyter "submission.ipynb" et tu peux directement coder dans ce dernier !
 
 Bon courage et n'hésite pas à nous contacter si tu as des questions.
+
+
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ToucanToco/cas_technique_stage_data/master)
