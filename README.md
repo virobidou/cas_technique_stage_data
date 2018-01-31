@@ -11,7 +11,7 @@ Pour forker ce repository, il te suffit de cliquer sur "Fork" en haut à droite 
 
 Tu vois que tu as désormais accès à l'ensemble des éléments mais depuis ton profil et non plus celui de Toucan Toco.
 
-Pour démarrer ton travail, tu peux désormais cliquer sur le lien binder ci-dessous, qui t'amènera vers une plateforme qui te mettra à disposition le notebook Jupyter "submission.ipynb". Sur cette plateforme tu disposes de tout l'environnement nécessaire pour travailler:
+Pour démarrer ton travail, **depuis ton espace** tu peux désormais cliquer sur le lien binder ci-dessous, qui t'amènera vers une plateforme qui te mettra à disposition le notebook Jupyter "submission.ipynb". Sur cette plateforme tu disposes de tout l'environnement nécessaire pour travailler:
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ToucanToco/cas_technique_stage_data/master)
 
