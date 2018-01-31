@@ -8,8 +8,6 @@ Toutes les consignes du cas sont disponibles dans le notebook Jupyter "submissio
 
 Quand tu veux sauvegarder ton travail pour nous l'envoyer, il suffit ce clicker "File" > "Download as" > "Notebook"
 
-![download](images/DownloadAs.png)
-
 Bon courage et n'hésite pas à nous contacter si tu as des questions.
 
 
