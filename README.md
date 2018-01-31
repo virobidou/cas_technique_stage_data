@@ -11,7 +11,8 @@ Pour forker ce repository, il te suffit de cliquer sur "Fork" en haut à droite 
 
 Tu vois que tu as désormais accès à l'ensemble des éléments mais depuis ton profil et non plus celui de Toucan Toco.
 
-Pour démarrer ton travail, **depuis ton espace** tu peux cliquer sur le lien Binder en bas de cette page, qui t'amènera vers une plateforme qui te mettra à disposition tout l'environnement nécessaire pour travailler (ne t'inquiète pas, le chargement peut durer un certain temps car Binder doit préparer installer l'environnement). L'environnement inclut une installation de python et de ses librairies standard, ainsi que les librairies numpy et pandas qui te suffisent à répondre au besoin de ce cas.  
+Pour démarrer ton travail, **depuis ton espace** tu peux cliquer sur le lien Binder en bas de cette page, qui t'amènera vers une plateforme qui te mettra à disposition tout l'environnement nécessaire pour travailler (ne t'inquiète pas, le chargement peut durer un certain temps car Binder doit préparer installer l'environnement). L'environnement inclut une installation de python 3.6 et de ses librairies standard, ainsi que les librairies numpy et pandas qui te suffiront à répondre au besoin de ce cas.  
+
 Toutes les consignes du cas sont disponibles dans le notebook Jupyter "submission.ipynb" et tu peux directement coder dans ce dernier !
 
 Bon courage et n'hésite pas à nous contacter si tu as des questions.
