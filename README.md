@@ -29,7 +29,7 @@ Pour cela il te suffit de clicker sur "File" > "Download as" > "Notebook" comme 
 
 ### 3bis. Ouvrir un notebook enregistré sur ton ordinateur dans Binder
 
-Une fois sur la page d'accueil de Jupyter dans Binder (suite à l'étape 1.), tu peux ouvrir un notebook venant de ton ordinateur en cliquant sur "Upload" en haut à droite de l'écran, comme montré ci-dessous sur l'image ci-dessous. Tu seras invité à aller chercher le notebook sur ton ordinateur. Si tu as gardé le même nom de fichier que celui déjà présent par défaut, on te demandera si tu souhaites bien écraser le fichier. Tu peux confirmer.
+Une fois sur la page d'accueil de Jupyter dans Binder (suite à l'étape 1), tu peux ouvrir un notebook venant de ton ordinateur en cliquant sur "Upload" en haut à droite de l'écran, comme montré ci-dessous sur l'image ci-dessous. Tu seras invité à aller chercher le notebook sur ton ordinateur. Si tu as gardé le même nom de fichier que celui déjà présent par défaut, on te demandera si tu souhaites bien écraser le fichier. Tu peux confirmer.
 
 ![upload-notebook](images/upload_notebook.png)
 
