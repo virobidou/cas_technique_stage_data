@@ -17,7 +17,7 @@ Tu peux cliquer sur le fichier "script.ipynb" comme montré ci-dessous:
 
 Toutes les consignes du cas sont disponibles dans ce notebook et tu peux directement coder dans ce dernier !
 
-**ATTENTION: Binder est un environnement "jetable", c'est-à-dire que si tu quittes Binder sans avoir télécharger ton notebook, ton travail est perdu. Nous te conseillons de garder ta session Binder ouverte jusqu'à ce que ton travail soit terminé, et de prendre la précaution de télécharger ton notebook régulièrement pour sauvegarder ton travail. Pour cela il te faudra télécharger ton notebook sur ton ordinateur en suivant la procédure décrite à l'étape 3.**
+**ATTENTION: Binder est un environnement "jetable", c'est-à-dire que si tu quittes Binder sans avoir téléchargé ton notebook, ton travail est perdu. Nous te conseillons de garder ta session Binder ouverte jusqu'à ce que ton travail soit terminé, et de prendre la précaution de télécharger ton notebook régulièrement pour sauvegarder ton travail. Pour cela tu peux suivre la procédure décrite à l'étape 3.**
 
 Si jamais tu as été forcé de quitter Binder et que tu souhaites rouvrir une session pour reprendre ton travail (à condition que tu aies bien une sauvegarde de ton notebook), tu peux refaire l'étape 1. et suivre la procédure décrite à l'étape 3.bis.
 
@@ -29,9 +29,9 @@ Pour cela il te suffit de clicker sur "File" > "Download as" > "Notebook" comme 
 
 ### 3bis. Ouvrir un notebook enregistré sur ton ordinateur dans Binder
 
-Une fois sur la page d'accueil de Jupyter dans Binder (suite à l'étape 1.), tu peux ouvrir un notebook venant de ton ordinateur en cliquant sur "File" > "Open" et en allant récupérer le notebook sur ton ordinateur, comme montré ci-dessous:
+Une fois sur la page d'accueil de Jupyter dans Binder (suite à l'étape 1.), tu peux ouvrir un notebook venant de ton ordinateur en cliquant sur "Upload" en haut à droite de l'écran, comme montré ci-dessous sur l'image ci-dessous. Tu seras invité à aller chercher le notebook sur ton ordinateur. Si tu as gardé le même nom de fichier que celui déjà présent par défaut, on te demandera si tu souhaites bien écraser le fichier. Tu peux confirmer.
 
-![open-notebook](images/open_notebook.png)
+![upload-notebook](images/upload_notebook.png)
 
 ### 4. Quand tu as terminé ton travail et que tu souhaites nous le soumettre
 
