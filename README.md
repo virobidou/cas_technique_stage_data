@@ -38,5 +38,11 @@ Une fois sur la page d'accueil de Jupyter dans Binder (suite à l'étape 1), tu 
 Quand tu as fini, il faut que tu télécharges le notebook final comme décrit à l'étape 3.
 Tu peux ensuite nous l'envoyer à l'adresse data+recrutement@toucantoco.com
 
+Par curiosité, tu peux regarder le rendu possible de ce travail: 
+> https://data.toucantoco.guru/case-study
+> id: use_case
+> mpd: toucan2018
+
 C'est à toi !
 Bon courage et n'hésite pas à nous contacter si tu as des questions.
+
