@@ -36,7 +36,7 @@ Une fois sur la page d'accueil de Jupyter dans Binder (suite à l'étape 1), tu 
 ### 4. Quand tu as terminé ton travail et que tu souhaites nous le soumettre
 
 Quand tu as fini, il faut que tu télécharges le notebook final comme décrit à l'étape 3.
-Tu peux ensuite nous l'envoyer à l'adresse data+recrutement@toucantoco.com
+Tu peux ensuite nous l'envoyer à l'adresse data@toucantoco.com
 
 Par curiosité, tu peux regarder le rendu possible de ce travail: 
 > https://data.toucantoco.guru/case-study
